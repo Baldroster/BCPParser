@@ -6,7 +6,7 @@ This project created to parse tournament lists from **Best Coast Pairings** app.
 # Instruction
 
 1. Install Java (https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
-2. Download latest build
+2. Download latest  app build (https://github.com/Baldroster/BCPParser/releases)
 3. Unpack latest build
 4. Open config.json
 5. Change login and password fields to your BCP credentials
